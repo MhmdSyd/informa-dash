@@ -2,3 +2,5 @@ venv
 *.pyc
 .DS_Store
 .env
+02Sample Data for Assessment.xlsx
+sample_data.csv
